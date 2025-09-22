@@ -2,8 +2,6 @@
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/[TU_USUARIO_DE_GITHUB]/[NOMBRE_DEL_REPOSITORIO]/blob/main/[NOMBRE_DEL_NOTEBOOK].ipynb)
 
-**[IMPORTANTE: Edita el enlace de arriba! Reemplaza `[TU_USUARIO_DE_GITHUB]`, `[NOMBRE_DEL_REPOSITORIO]` y `[NOMBRE_DEL_NOTEBOOK].ipynb` con tus datos reales para que el botón funcione.]**
-
 ---
 
 ## Descripción del Proyecto
@@ -18,10 +16,9 @@ El objetivo principal de este trabajo es contrastar la complejidad teórica de l
 *   **Semestre:** 2025-2
 
 ### Integrantes del Equipo
-*   [Nombre Completo del Estudiante 1]
-*   [Nombre Completo del Estudiante 2]
-*   [Nombre Completo del Estudiante 3]
-*   [Nombre Completo del Estudiante 4]
+*   [Sebastian Herrera]
+*   [Darcy Escalante]
+
 
 ---
 
