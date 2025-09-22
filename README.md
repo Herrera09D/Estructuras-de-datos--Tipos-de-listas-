@@ -1,9 +1,5 @@
 # Implementación y Análisis de Listas Enlazadas en Python
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/[TU_USUARIO_DE_GITHUB]/[NOMBRE_DEL_REPOSITORIO]/blob/main/[NOMBRE_DEL_NOTEBOOK].ipynb)
-
----
-
 ## Descripción del Proyecto
 
 Este repositorio contiene la implementación y el análisis de rendimiento de tres estructuras de datos fundamentales: **Lista Simplemente Enlazada (LSE)**, **Lista Doblemente Enlazada (LDE)** y **Lista Doblemente Enlazada Circular (LDEC)**. Todas las implementaciones se realizaron en Python utilizando un nodo cabecera (sentinela) para simplificar las operaciones en los casos borde.
